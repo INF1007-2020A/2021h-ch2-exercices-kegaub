@@ -3,6 +3,7 @@
 def majuscule(mot):
     # TODO completer la fonction ici.
     x = 0
+    y = 1
 
     return x
 
